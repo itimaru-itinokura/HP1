@@ -5,11 +5,15 @@
   position: relative;
 }
 
-.header_inner img {
+.header_inner p {
   position: absolute;
-  width: 150px;
-  padding: 30px;
+  width: 300px;
+  padding: 20px 30px 30px 30px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
 }
+
 
 .header_inner nav ul {
   position: absolute;
@@ -75,8 +79,11 @@ footer {
   z-index: 1;
 }
 
-.footer_inner img {
-  width: 200px;
+.footer_inner h1 {
+  font-size: 30px;
+  position: relative;
+  top: -80px;
+  left: -40px;
 }
 
 .footer_inner p {
