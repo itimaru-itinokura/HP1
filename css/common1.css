@@ -1,0 +1,20 @@
+@charset "UTF8";
+body{
+  font-size: 15px;
+  line-height: 1.8;
+  letter-spacing: 1px;
+  word-break: break-all;
+  color: #555;
+  font-family: 'Klee One', cursive;
+  background-image: url("../白　和紙.jpeg");
+}
+
+a{
+  text-decoration: none;
+  color: #555;
+}
+
+li{
+  list-style: none;
+}
+
